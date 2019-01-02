@@ -4,7 +4,7 @@ import java.io.Serializable;
 import java.util.Map;
 
 /**
- * @author Azret Magometov
+ * @author Jasur Shukurov
  */
 
 public class Character implements Serializable {

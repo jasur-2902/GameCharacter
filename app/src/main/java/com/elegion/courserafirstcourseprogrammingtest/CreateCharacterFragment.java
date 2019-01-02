@@ -29,7 +29,7 @@ import java.util.Observer;
 import java.util.Set;
 
 /**
- * @author Azret Magometov
+ * @author Jasur Shukurov
  */
 
 public class CreateCharacterFragment extends Fragment implements Observer {

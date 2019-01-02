@@ -10,7 +10,7 @@ import android.widget.TextView;
 
 
 /**
- * @author Azret Magometov
+ * @author Jasur Shukurov
  */
 
 public class CharacterFragment extends Fragment {
